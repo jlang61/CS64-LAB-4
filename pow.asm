@@ -15,7 +15,7 @@
 # Assembly (NON-RECURSIVE) code version of pow(x,n):
 #
 .data
-	number: .asciiz "Enter the number x:\n"
+	number: .asciiz "Enter a number x:\n"
 	exponent: .asciiz "Enter the exponent n:\n"
 	output: .asciiz "Power(x,n) is:\n"
 	newline: .asciiz "\n"
